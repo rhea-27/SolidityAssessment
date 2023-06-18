@@ -17,3 +17,7 @@ At Deploy & Run transactions you'll see environment, account, gas limit, value, 
 
 The contract tab, you see the token.sol and deploy it. After deploying it, you can see at the output the green check means it works. 
 Below is 'deployed contracts' click that and paste the address you've copied before and paste it to 'burn' and 'mint' section. You can add value and click transact.
+
+
+## Authors
+Rhea Salvoro
